@@ -7,6 +7,8 @@ Title, artist, progress bar, prev / play-pause / next, shuffle, repeat, like (â™
 
 > Unofficial project. Not affiliated with or endorsed by Spotify.
 
+![another-spotibar](docs/screenshot.png)
+
 ## Features
 - Always on top, draggable, width-resizable; remembers position and size
 - Playback control over MPRIS (D-Bus), so it works with the regular Spotify desktop client
