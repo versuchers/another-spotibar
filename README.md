@@ -25,7 +25,7 @@ Title, artist, progress bar, prev / play-pause / next, shuffle, repeat, like (�
 
 ## Install
 ```bash
-git clone https://github.com/<your-user>/another-spotibar.git
+git clone https://github.com/versuchers/another-spotibar.git
 cd another-spotibar
 ./install.sh              # or ./install.sh --autostart to start on login
 another-spotibar
@@ -62,7 +62,7 @@ MIT — see [LICENSE](LICENSE). Copyright (c) 2026 Semih.
 ## Kurulum
 ```bash
 sudo apt install python3-gi gir1.2-gtk-3.0   # Debian/Ubuntu/Mint
-git clone https://github.com/<kullanici-adin>/another-spotibar.git
+git clone https://github.com/versuchers/another-spotibar.git
 cd another-spotibar
 ./install.sh              # açılışta başlasın istersen: ./install.sh --autostart
 another-spotibar
