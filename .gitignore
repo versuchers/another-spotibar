@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.bak
+*.bak[0-9]*
+*.egg-info/
+build/
+dist/
+.venv/
+# never commit credentials
+token.json
+client.json

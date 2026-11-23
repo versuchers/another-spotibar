@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "another-spotibar"
+version = "0.1.0"
+description = "A tiny always-on-top Spotify mini player bar for Linux (GTK3 + MPRIS)"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Semih" }]
+requires-python = ">=3.8"
+# PyGObject (GTK3) comes from your distro: python3-gi, gir1.2-gtk-3.0
+dependencies = []
+classifiers = [
+    "Operating System :: POSIX :: Linux",
+    "Environment :: X11 Applications :: GTK",
+    "License :: OSI Approved :: MIT License",
+]
+
+[project.scripts]
+another-spotibar = "another_spotibar.app:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

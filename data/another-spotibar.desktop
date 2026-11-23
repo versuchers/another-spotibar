@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=another-spotibar
+Comment=Always-on-top mini player bar for Spotify
+Exec=another-spotibar
+Icon=another-spotibar
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+StartupNotify=false
