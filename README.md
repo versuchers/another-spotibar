@@ -49,7 +49,7 @@ Your token and settings are stored in `~/.config/another-spotibar/` (token file 
 Forks and pull requests are welcome. Please keep the license notice.
 
 ## License
-MIT — see [LICENSE](LICENSE). Copyright (c) 2026 Semih.
+MIT — see [LICENSE](LICENSE).
 
 ---
 
@@ -76,4 +76,4 @@ Beğen ve listeye ekle özellikleri Spotify Web API kullanır; bu yüzden kendi 
 Çubuğu sürükleyerek taşı, sol/sağ kenarından çekerek genişlet. Sağ tık → **Ayarlar**: skin, renkler, boyutlar, dil. Kendi skinlerin `~/.config/another-spotibar/skins/` altında saklanır.
 
 ## Lisans
-MIT — bkz. [LICENSE](LICENSE). Telif: Semih, 2026. Fork'lamak ve değiştirmek serbest; lisans notu korunmalı.
+MIT — bkz. [LICENSE](LICENSE). Fork'lamak ve değiştirmek serbest; lisans notu korunmalı.
